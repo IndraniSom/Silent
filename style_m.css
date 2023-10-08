@@ -109,7 +109,7 @@ section{
 }
 
 .products .box-container{
-   display: flex;
+   
    grid-template-columns: 35rem;
    align-items: flex-start;
    justify-content: center;
@@ -331,4 +331,5 @@ section{
 .checkout .row .summary .grand-total p{
    color: #882249;
 }
+
 
