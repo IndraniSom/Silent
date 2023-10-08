@@ -12,7 +12,7 @@ body, h1, h2, h3, p, ul, li {
   }
   
   .container {
-    display: flex;
+    
     height: 100vh;
   }
   
@@ -143,7 +143,7 @@ a:hover {
   }
   /* Additional styling for the voice capture button */
   .voice-input {
-    padding: 7px 99px;
+    padding: 7px 1px;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -377,4 +377,9 @@ a:hover {
   display: inline-block;
 
 }
+}
+@media (min-width: 1000px) {
+  .container{
+    display: flex;
+  }
 }
