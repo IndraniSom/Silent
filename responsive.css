@@ -230,3 +230,9 @@
     width: 100%; /* Make the width 100% to fit the screen */
   }
 }
+@media screen and (max-width: 1799px)
+{
+  .gallery{
+    margin-left: 306px;
+  }
+}
