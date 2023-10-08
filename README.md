@@ -1,7 +1,7 @@
 # Silent-Boomers
 ![WhatsApp Image 2023-09-01 at 10 46 21](https://github.com/IndraniSom/Silent-Boomers/assets/141947844/d2fa88c2-d0b1-412b-ab5f-188cf029956e)
 
- ![WhatsApp Image 2023-09-01 at 10 46 24](https://github.com/IndraniSom/Silent-Boomers/assets/141947844/0b9c1c41-9d24-4eff-97a3-620ff450113d)
+
 
 
 ## ❓Problem
