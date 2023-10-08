@@ -59,3 +59,6 @@ window.onload = function() {
     function sap() {
       swal("Helpline Number", "Call 1800-11-2356 for help", "success ");
     }
+    function asap() {
+      swal("Thank you for ordering .Get more customised product");
+    }

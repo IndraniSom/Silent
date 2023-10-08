@@ -325,11 +325,61 @@ section{
 }
 
 .checkout .row .summary .grand-total span{
-   color: #a69adb;
+   color: #010004;
 }
 
 .checkout .row .summary .grand-total p{
    color: #882249;
 }
+.orders .box-container{
+   display: grid;
+   grid-template-columns: repeat(auto-fit, 35rem);
+   align-items: flex-start;
+   justify-content: center;
+   gap: 1.5rem;
+}
 
+.orders .box-container .box{
+   background-color: #eee;
+   border-radius: .5rem;
+   border:#853755;
+   padding: 2rem;
+   overflow-x: hidden;
+}
+
+.orders .box-container .box {
+   padding:1rem 1.5rem;
+   color: #882249;
+   background-color:#f0defc;
+   font-size: 1.6rem;
+   display: inline-block;
+   margin-bottom: 1.5rem;
+   border-radius: .5rem;
+}
+
+.orders .box-container .box .date i{
+   margin-right: 1rem;
+   color: #882249;
+}
+
+.orders .box-container .box .image{
+   height: 20rem;
+   width: 100%;
+   object-fit: contain;
+   margin: 1rem 0;
+}
+
+.orders .box-container .box .name{
+   font-size: 2rem;
+   color: black;
+   text-overflow: ellipsis;
+   margin: 1rem 0;
+   overflow-x: hidden;
+}
+
+.orders .box-container .box .price{
+   color: #882249;
+   font-size: 1.8rem;
+   padding: .5rem 0;
+}
 
