@@ -318,7 +318,7 @@ a:hover {
 @media (max-width: 480px) {
   .container {
     display: flex;
-  height: 115vh;
+  height: 275vh;
   flex-flow: column wrap;
   align-content: stretch;
 }
