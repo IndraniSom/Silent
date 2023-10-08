@@ -1550,9 +1550,84 @@ background-size:100%;
 section{
   display:grid;
 }
-@media screen and (max-width: 507px)
+/* @media screen and (max-width: 507px)
 {
   .gallery{
     margin-left: 200px;
+  }
+} */
+.temp {
+  position: relative;
+  height: 100vh;
+  width: 76rem;
+  background: linear-gradient(180deg, rgba(51, 45, 75, 0.00) 100%);
+}
+
+@media screen and (max-width: 468px) {
+  .temp {
+    position: relative;
+    height: 70vh;
+    width: 20rem;
+    background: linear-gradient(180deg, rgba(51, 45, 75, 0.00) 100%);
+  }
+
+  .gallery {
+    margin-left: 0;
+  }
+
+  .container {
+    margin-top: 0;
+  }
+
+  #ourteam {
+
+    height: 5vh;
+
+  }
+
+  .new_footer_top .footer_bg .footer_bg_one {
+    left: 0;
+  }
+
+  #tutorials {
+
+    margin: 0;
+
+  }
+
+  .waviy2 {
+    font-size: 10px;
+  }
+
+  .gallery {
+    width: 103px;
+  }
+
+  #listeners {
+    width: 78%;
+  }
+
+  @keyframes myfirst {
+    0% {
+      left: 0%;
+    }
+
+    100% {
+      left: 0%;
+    }
+  }
+
+  .videocontainer {
+    display: flex;
+    flex-direction: column;
+  }
+
+
+  .parallax {
+    min-height: 30vh;
+  }
+
+  .gallery>img {
+    width: 96%;
   }
 }
