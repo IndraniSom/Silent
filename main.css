@@ -399,6 +399,60 @@ a:hover,a.active{
   background-color: #aaa;
 }
 
+/* Define a breakpoint for smaller screens */
+@media (max-width: 768px) {
+  #listeners {
+    width: 100%; /* Adjust width for smaller screens */
+    height: auto; /* Allow the height to adjust based on content */
+  }
+
+  .parallax-container {
+    height: 50vh; /* Reduce the height for smaller screens */
+  }
+
+  #text1 {
+    font-size: 8vw; /* Increase font size for smaller screens */
+    margin-top: -387px; /* Adjust margin for smaller screens */
+  }
+
+  #text2 {
+    font-size: 8vw; /* Increase font size for smaller screens */
+    margin-top: -376px; /* Adjust margin for smaller screens */
+  }
+
+  .center-container {
+    flex-direction: column; /* Stack elements vertically for smaller screens */
+  }
+
+  .img2 {
+    width: 80%; /* Adjust image width for smaller screens */
+    margin-left: 10%; /* Center align the image */
+  }
+
+  .button {
+    width: 100%;
+    margin-top: 25%; /* Make the button full width for smaller screens */
+  }
+}
+
+/* Define a breakpoint for even smaller screens */
+@media (max-width: 480px) {
+  #text1
+  {
+    font-size: 30vw;
+    margin-top: -190px;
+  }
+  #text2 {
+    font-size: 30vw;
+    margin-top: -178px; /* Increase font size further for very small screens */
+  }
+
+  .img2 {
+    width: 90%; /* Adjust image width for very small screens */
+  }
+}
+
+
 #community{
 	min-height: 100vh;
     display: grid;
