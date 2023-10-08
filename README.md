@@ -45,8 +45,8 @@ In this section, we have provided a form where the users can login their Gmail a
 - In the buying and selling page, we faced problems in the payment section so we are trying to solve that issue.
 
 ## 🎯Future Goals of the project
-- We are trying to modify a proper payment option for the buying and selling page.
-- We are currently working on the design of the Tutorial Section.
+
+
 - We are trying to make a chat section under the communuty sections and we trying to add a speech to text convertor to reduce the hassle of typing.
 
 
@@ -96,18 +96,13 @@ This project has been bulit using::
 
 -Open a Pull Request
 
-## Tracks
 
-- Best All Girls team
-- Best implementation of UI/UX
-- Best Project Workflow
 
 ## Contributing
 
 Made with ❤️ by team <em>Loading Minds</em>:
 
- [Indrani Som](https://github.com/IndraniSom)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Neelakshi Das](https://github.com/bluecoder2003)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sritama Karfa](https://github.com/valentra )&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [ Heya Banerjee ](https://github.com/HeyaBanerjee)
-
+ [Indrani Som](https://github.com/IndraniSom)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Neelakshi Das](https://github.com/bluecoder2003)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Sritama Karfa](https://github.com/valentra )&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <!--[![IndraniSom GitHub stats](https://github-readme-stats.vercel.app/api?username=IndraniSom&show_icons=true&theme=radical)](https://github.com/IndraniSom/github-readme-stats)
 <!-- Add a header or introductory text here -->
 
@@ -117,8 +112,7 @@ Made with ❤️ by team <em>Loading Minds</em>:
 <!--[![Sritama's GitHub stats](https://github-readme-stats.vercel.app/api?username=valentra&show_icons=true&theme=radical)](https://github.com/valentra/github-readme-stats)
 <!-- Add a header or introductory text here -->
 
-<!--[![Heya's GitHub stats](https://github-readme-stats.vercel.app/api?username=HeyaBanerjee&show_icons=true&theme=radical)](https://github.com/HeyaBanerjee/github-readme-stats)-->
-
+Made with LOVE by Loading Minds
 
 
 
