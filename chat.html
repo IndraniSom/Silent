@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="chat.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <title>WhatsApp-Like Chat</title>
+</head>
+<body>
+  <div class="container">
+    <div class="community-section">
+      <h2>Communities</h2>
+      <ul class="community-list">
+        <li class="community-item" data-community="Book Worm Community">Book Worm</li>
+        <li class="community-item" data-community="Music Room">Music Room</li>
+        <li class="community-item" data-community="Cook Book">Cook Book</li>
+        <li class="community-item" data-community="Buying and Selling">Buying and Selling Room</li>
+        <a href="./buy.html">Buying</a>
+        <a href="./marketplace.html">Selling</a>
+      </ul>
+    </div>
+    <div class="chat-section">
+      <div class="chat-container">
+        <div class="chat-header" id="chatHeader">Select a Community</div>
+        <div class="chat-messages" id="chatMessages">
+  
+        </div>
+        <div class="voice-input">
+          <!-- <button id="startRecording">
+            <img class="voice-icon" src="./Images/New folder/microphone-black-shape.png" alt="Microphone Icon">
+            Start Recording
+          </button> -->
+          <div class="wrap">
+            <!-- <img class="voice-icon" src="./Images/New folder/microphone-black-shape.png" alt="Microphone Icon"> -->
+            <button class="button">START RECORDING</button>
+          </div>
+          <textarea name="" id="convert_text" cols="60" rows="5"></textarea>
+          <i class="fa fa-paper-plane" style="font-size:30px;" aria-hidden="true"></i>
+          
+        </div>
+        
+      </div>
+    </div>
+  </div>
+  <script src="chat.js"></script>
+</body>
+</html>
