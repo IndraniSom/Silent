@@ -399,6 +399,7 @@ a:hover,a.active{
   background-color: #aaa;
 }
 
+/* Define a breakpoint for smaller screens */
 @media (max-width: 768px) {
   #listeners {
     width: 100%; /* Adjust width for smaller screens */
@@ -450,6 +451,7 @@ a:hover,a.active{
     width: 90%; /* Adjust image width for very small screens */
   }
 }
+
 
 #community{
 	min-height: 100vh;
