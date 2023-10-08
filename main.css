@@ -223,8 +223,6 @@ a:hover,a.active{
   align-items: center;
   overflow: hidden;
 }
-
- 
 #text1 {   
   font-size: 3.6vw;
     height: 48px;
@@ -284,6 +282,8 @@ a:hover,a.active{
 }
 
 .button{
+  margin-top: 5%;
+  margin-left:40%;
     width: 220px;
     height: 50px;
     border: none;
@@ -411,12 +411,12 @@ a:hover,a.active{
 
   #text1 {
     font-size: 8vw; /* Increase font size for smaller screens */
-    margin-top: -387px; /* Adjust margin for smaller screens */
+    margin-top: 264px; /* Adjust margin for smaller screens */
   }
 
   #text2 {
     font-size: 8vw; /* Increase font size for smaller screens */
-    margin-top: -376px; /* Adjust margin for smaller screens */
+    margin-top: 298px; /* Adjust margin for smaller screens */
   }
 
   .center-container {
@@ -430,7 +430,7 @@ a:hover,a.active{
 
   .button {
     width: 100%;
-    margin-top: 25%; /* Make the button full width for smaller screens */
+    margin-top: 20%; /* Make the button full width for smaller screens */
   }
 }
 
@@ -438,16 +438,16 @@ a:hover,a.active{
 @media (max-width: 480px) {
   #text1
   {
-    font-size: 30vw;
-    margin-top: -190px;
+    font-size: 20vw;
+    margin-top: 526px;
   }
   #text2 {
-    font-size: 30vw;
-    margin-top: -178px; /* Increase font size further for very small screens */
+    font-size: 20vw;
+    margin-top: 716px; /* Increase font size further for very small screens */
   }
 
   .img2 {
-    width: 90%; /* Adjust image width for very small screens */
+    width: 80%; /* Adjust image width for very small screens */
   }
 }
 
